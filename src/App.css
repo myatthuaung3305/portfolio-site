@@ -1,0 +1,13 @@
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 0 1rem 3rem;
+}
+
+@media (min-width: 768px) {
+  main {
+    gap: 2rem;
+    padding: 0 1.5rem 4rem;
+  }
+}
