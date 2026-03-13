@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.fd2ee6cc.css",
+    "main.js": "/portfolio-site/static/js/main.ee4b55da.js",
+    "static/media/aung-market-cover.jpeg": "/portfolio-site/static/media/aung-market-cover.c33a140fe50df60f6307.jpeg",
+    "static/media/pandan-kitchen-cover.jpg": "/portfolio-site/static/media/pandan-kitchen-cover.2faaa7ade766fabf2548.jpg",
+    "static/media/portfolio-site.svg": "/portfolio-site/static/media/portfolio-site.670b124102bc79e26f3ff3f1738a7d37.svg",
+    "index.html": "/portfolio-site/index.html",
+    "main.fd2ee6cc.css.map": "/portfolio-site/static/css/main.fd2ee6cc.css.map",
+    "main.ee4b55da.js.map": "/portfolio-site/static/js/main.ee4b55da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2ee6cc.css",
+    "static/js/main.ee4b55da.js"
+  ]
+}
