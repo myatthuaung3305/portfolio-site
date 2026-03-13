@@ -52,3 +52,8 @@ npm run build
 
 - Portfolio content is driven from one file so project details can be updated quickly.
 - The current portfolio reflects the upgraded Aung Market and Pandan Kitchen projects.
+
+## Deployment
+
+- `vercel.json` is included for SPA routing on Vercel
+- The site can also be deployed from the production build output on other static hosts
