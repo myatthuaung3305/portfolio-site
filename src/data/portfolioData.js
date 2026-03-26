@@ -6,8 +6,8 @@ export const portfolioData = {
   name: 'Myat Thu Aung',
   role: 'Junior Full-Stack Developer',
   availability: 'Open to internships and junior developer roles',
-  email: 'myatthuaung@kbtc.edu.mm',
-  location: 'KBTC student developer',
+  email: 'aung.myatthu3305@gmail.com',
+  location: 'Block 313, Ang Mo Kio Avenue 3, #06-2314, Singapore 560313',
   githubUrl: 'https://github.com/myatthuaung3305',
   githubLabel: '@myatthuaung3305',
   heroIntro:
